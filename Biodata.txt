@@ -1,2 +1,8 @@
-nama    passion
--zaki   -front -end
+nama        passion
+-dimas      -front-end
+-domba      -masih mencari
+-jafar      -olahraga
+-kambing    -back-end
+-anris      -sedang berpetualang
+-dita l     -lari dari kenyataan
+-zaki       -nonton-film
